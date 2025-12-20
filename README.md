@@ -21,12 +21,13 @@ Light mode
 ---
 Configuration steps:
 ---
-  1) Download the CSS file
-  2) Type vivaldi://experiments in the URL bar and check Allow CSS modifications
-  3) Open Vivaldi Settings
-  4) Appearance > CUSTOM UI MODIFICATIONS and select the folder in which you downloaded the CSS.
-  5) Appearance > Status Bar > Hide Status Bar
-  6) Themes > New Theme... and follow the screenshots below:
+  1) Go to "vivaldi://settings/tabs/" and uncheck the option "Remove Tab Spacing In Maximized Windows".
+  2) Download the CSS file
+  3) Type vivaldi://experiments in the URL bar and check Allow CSS modifications
+  4) Open Vivaldi Settings
+  5) Appearance > CUSTOM UI MODIFICATIONS and select the folder in which you downloaded the CSS.
+  6) Appearance > Status Bar > Hide Status Bar
+  7) Themes > New Theme... and follow the screenshots below:
 
   Colors:
   
