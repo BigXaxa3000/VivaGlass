@@ -3,7 +3,7 @@ A fork of Vivaldi Air
 
 Screenshots:
 
-<img width="1919" height="1024" alt="image" src="https://github.com/BigXaxa3000/VivaGlass/blob/main/VivaldiAir.css" />
+<img width="1919" height="1024" alt="image" src="https://github.com/BigXaxa3000/VivaGlass/blob/main/VivaGlass-img-1.jpg" />
 
 ---
 Configuration steps:
