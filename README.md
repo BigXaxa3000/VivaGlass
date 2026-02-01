@@ -3,7 +3,12 @@ A fork of Vivaldi Air
 
 Screenshots:
 
-<img width="1919" height="1024" alt="image" src="https://github.com/BigXaxa3000/VivaGlass/blob/main/VivaGlass-img-1.jpg" />
+<img width="1919" height="1024" alt="image" src="https://github.com/BigXaxa3000/VivaGlass/blob/main/Screenshots/VivaGlass-img-1.jpg" />
+<img width="1919" height="1024" alt="image" src="https://github.com/BigXaxa3000/VivaGlass/blob/main/Screenshots/VivaGlass-img-2.jpg" />
+<img width="1919" height="1024" alt="image" src="https://github.com/BigXaxa3000/VivaGlass/blob/main/Screenshots/VivaGlass-img-3.jpg" />
+
+Made to work with custom background colors, transparency, and background blur:
+<img width="1919" height="1024" alt="image" src="https://github.com/BigXaxa3000/VivaGlass/blob/main/Screenshots/VivaGlass-img-4.gif" />
 
 ---
 Configuration steps:
