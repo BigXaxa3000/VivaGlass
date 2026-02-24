@@ -817,6 +817,11 @@ button.button-startpage:after {
     padding: 10px;
 }
 
+/*Speed dial items clipping shadows fix*/
+.SpeedDial--Icon .thumbnail-favicon{
+    overflow: visible;
+}
+
 /* Speed dial items spacing fix */
 .speeddial {
     margin-top: 0;
